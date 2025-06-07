@@ -19,8 +19,8 @@ A simple, addictive catch game built with Python and Kivy. Move your paddle to c
 
 ## Screenshots
 
-![Game Screenshot](Screenshots\Screenshot.png)
-![Game Screenshot](Screenshots\Screenshot2.png)
+![Game Screenshot](Screenshots/Screenshot.png)
+![Game Screenshot](Screenshots/Screenshot2.png)
 
 ---
 
